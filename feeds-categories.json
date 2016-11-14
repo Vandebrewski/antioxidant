@@ -1,0 +1,107 @@
+[
+	{
+		"id":"health-related-articles-on-antioxidants",
+		"title":"Health related articles on antioxidants",
+		"image":"img/feeds/antioxidant.jpg",
+		"feed_sources":[
+			{
+				"id":"antioxidants-and-cancer",
+				"title":"antioxidants and cancer",
+				"description":"PubMed",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1x7FOCOHd9PGmJ_iAXwmlBMc5OVrrS41rO7mqFqfXWrtiLyEIp"
+			},
+			{
+				"id":"antioxidants-and-wrinkles",
+				"title":"antioxidants and wrinkles",
+				"description":"PubMed",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1Zi2AdWYRHLFFqGqj4_fvV3YB4NymAgoGSzyIKNZcBYgKqpkrp"
+			},
+			{
+				"id":"antioxidants-and-anti-aging",
+				"title":"antioxidants and anti-aging",
+				"description":"PubMed",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1VgjRyKWQDp1FjcEQNClfWU-FJiMwlV0o9pN665WthQZ2YzMrM"
+			},
+			{
+				"id":"antioxidants-and-alzheimers",
+				"title":"antioxidants and alzheimer's",
+				"description":"PubMed",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=16EwU9ZeEIALzsoY2iX62bVblaXDjEiKyR3lv3fL1p7Hlhfwkb"
+			},
+			{
+				"id":"antioxidants-and-diabetes",
+				"title":"antioxidants and diabetes",
+				"description":"PubMed",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1dug0iwjb-lSIylpezQfkIhdvF6DPZj5o4x0-nQLrtzB9Lwgo2"
+			},
+			{
+				"id":"antioxidants-and-exercise",
+				"title":"antioxidants and exercise",
+				"description":"PubMed",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1BG8vMv7GvYNe0DgpQn8szpSXpWL6vDcfM-seWK3Nr7Z_ScoVU"
+			},
+			{
+				"id":"antioxidants-and-whole-foods",
+				"title":"antioxidants and whole foods",
+				"description":"PubMed",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1V_PRf-wigmzSOevVX09YKH_-3w0SeBOBn8YdWed755GkIdkKN"
+			}
+		]
+	},
+	{
+		"id":"health-related-articles-on-superfoods",
+		"title":"Health related articles on Superfoods",
+		"image":"img/feeds/superfood.jpg",
+		"feed_sources":[
+			{
+				"id":"spirulina-benefits",
+				"title":"spirulina benefits",
+				"description":"PubMed",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1NIs-Zi-UW0rwLCiJw0LMSjHdXvi-s1ZpxrhC95F1u14D8eEJG"
+			},
+			{
+				"id":"chlorella-benefits",
+				"title":"chlorella benefits",
+				"description":"PubMed",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1l7lJQBQXfTNJkLM9xhB79kMwgI5nYmyLLvkZxZd2V0iLCbYSg"
+			},
+			{
+				"id":"goji-berry-benefits",
+				"title":"goji berry benefits",
+				"description":"PubMed",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1rkWqR_Z1ASXsfehxbNvciT0K139FgirhMuVUDE40VAuBDRweg"
+			},
+			{
+				"id":"blackberry-antioxidant",
+				"title":"blackberry antioxidant",
+				"description":"PubMed",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1dGikNNbKkSyJKC7Ng2UnZWynCKU4xh4fYsiyXRqRsGWCIoYZs"
+			},
+			{
+				"id":"curcuma-and-cancer",
+				"title":"curcuma and cancer",
+				"description":"PubMed",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1lOtM21uZ-4ew9gtrd1ywGHTfjexIpfJKGKFcYNW6i_Txow9mh"
+			},
+			{
+				"id":"cacao-benefits",
+				"title":"cacao benefits",
+				"description":"PubMed",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1tUjNYI-_9Jx--EO1gMBkPkmtzADIvv8a1oWEQkaJLnYSd-E4e"
+			}			
+		]
+	}
+]

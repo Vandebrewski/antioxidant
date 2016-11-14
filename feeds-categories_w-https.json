@@ -1,0 +1,44 @@
+[
+	{
+		"id":"antioxidant",
+		"title”:”Antioxidant",
+		"image":"img/feeds/antioxidant.jpg",
+		"feed_sources":[
+			{
+				"id":"bbc",
+				"title":"BBC",
+				"description":"The latest stories from the Sport section of the BBC Sport web site.",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://feeds.bbci.co.uk/sport/0/rss.xml"
+			},
+			{
+				"id":"fox-sports",
+				"title":"FOX Sports",
+				"description":"FOX Sports Generic Content Feed",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU"
+			}
+		]
+	},
+	{
+		"id”:”superfood”,
+		"title”:”Superfood",
+		"image":"img/feeds/beauty.jpg",
+		"feed_sources":[
+			{
+				"id":"techcrunch",
+				"title":"TechCrunch",
+				"description":"Startup and Technology News",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://feeds.feedburner.com/TechCrunch/social"
+			},
+			{
+				"id":"techradar",
+				"title":"Techradar",
+				"description":"Get all the latest tech news from Techradar.com",
+				"image":"img/feeds/logos/ncbi.png",
+				"url":"https://feeds2.feedburner.com/techradar/allnews"
+			}
+		]
+	}
+]
