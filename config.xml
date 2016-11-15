@@ -62,7 +62,7 @@
     </feature>
 -->
       
-  
+  <icon src="icon.png" />
 	
   
       <platform name="android">
@@ -117,7 +117,7 @@
 
 <gap:plugin name="cordova-plugin-inappbrowser" source="npm" />
 
-<icon src="resources/icon.png" />
+
  
 
     <icon src="resources/android/icon/drawable-xhdpi-icon.png" />
