@@ -117,7 +117,7 @@
 
 <gap:plugin name="cordova-plugin-inappbrowser" source="npm" />
 
-<icon src="icon.png" />
+<icon src="resources/icon.png" />
  
 
     <icon src="resources/android/icon/drawable-xhdpi-icon.png" />
